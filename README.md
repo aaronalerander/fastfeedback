@@ -1,3 +1,9 @@
+# Fast Feedback
+
+> Easily add user reviews, feedback, and comments to your website in one line of code.
+
+This product was built folling this course: [React 2025](https://react2025.com).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
